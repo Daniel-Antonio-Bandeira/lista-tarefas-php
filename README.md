@@ -21,11 +21,12 @@ CRUD completo de lista de tarefas desenvolvido em PHP orientado a objetos, utili
 
 ## Estrutura do projeto
 
-    Projeto-Lista-de-Tarefas-PHP/
-├── app_lista_tarefas/ # Lógica interna (Model, Service, Controller, Conexão)
-├── app_lista_tarefas_public/ # Arquivos públicos (acessados via navegador)
-└── database.sql # Script de criação do banco de dados
-
+```
+Projeto-Lista-de-Tarefas-PHP/
+├── app_lista_tarefas/         # Lógica interna (Model, Service, Controller, Conexão)
+├── app_lista_tarefas_public/  # Arquivos públicos (acessados via navegador)
+└── database.sql               # Script de criação do banco de dados
+```
 
 ## Como rodar o projeto
 
