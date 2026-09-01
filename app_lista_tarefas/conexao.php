@@ -3,7 +3,7 @@
     class Conexao {
 
         private $host = 'localhost'; //nome do host name
-        private $dbname = 'php_com_pdo'; //nome do banco de dados la no phpmyadmin
+        private $dbname = 'lista_tarefas'; //nome do banco de dados la no phpmyadmin
         private $user = 'root'; //nome do user
         private $pass = ''; // e a senha
 
